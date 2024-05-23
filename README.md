@@ -24,6 +24,10 @@ MIPS（Microprocessor without Interlocked Pipeline Stages）是一种基于RISC�
 其中，RISC拥有大量的通用寄存器，以减少对内存的访问次数，从而提高性能。众所周知，内存虽然很快，但因物理距离的限制，其与cpu交流的速度远低于cpu内部的寄存器(register)，这变相的要求学习者更好的理解和掌握什么时候使用内存，怎么更好的使用内存。除此以外，学习MIPS怎么使用内存可以帮助学生更好的理解c语言中的指针操作(MIPS中你无法随意的声明变量)，了解函数的参数传递和返回值，更加深入的理解内存与cpu的互动原理。
 
 首先，请认真的看完mips基础指南.docx，并大概的记住MIPS命令。
-其次，请移步YouTube：https://www.youtube.com/@davidblack-schaffer1906/playlists，他讲的比我好，虽然是英语的，但是配合youtube的自动字幕和翻译还是可以看懂的；如果无法上YouTube，B站有搬运：https://www.bilibili.com/video/av371481168/；但是B站的自动字幕质量极低，甚至会影响理解英语
+其次，请移步YouTube：
+https://www.youtube.com/@davidblack-schaffer1906/playlists
+他讲的比我好，虽然是英语的，但是配合youtube的自动字幕和翻译还是可以看懂的；如果无法上YouTube，B站有搬运：
+https://www.bilibili.com/video/av371481168/
+但是B站的自动字幕质量极低，甚至会影响理解英语
 
 在看完这个视频后，你应该做一些题，但是我就不提供了，你可以让gpt出，或者你大概率在海外留学且大学学到了MIPS。
